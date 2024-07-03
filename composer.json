@@ -42,7 +42,7 @@
     "roots/wp-password-bcrypt": "1.1.0",
     "aleks-bar/advanced-custom-fields": "*",
     "wpackagist-plugin/acf-extended":"*",
-    "wpackagist-plugin/cyr2lat":"^5.3.0"
+    "wpackagist-plugin/cyr2lat":"6.1.0"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.7.1",
