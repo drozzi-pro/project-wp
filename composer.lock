@@ -4,8 +4,33 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4804bca647299a235ce64ca576c5934d",
+    "content-hash": "0288d8d5c42a478f362188defaf81dc3",
     "packages": [
+        {
+            "name": "aleks-bar/advanced-custom-fields",
+            "version": "6.3.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/AleksBar/advanced-custom-fields.git",
+                "reference": "307884baa99df6efb92f69c2e17c8dbf2b454a7e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/AleksBar/advanced-custom-fields/zipball/307884baa99df6efb92f69c2e17c8dbf2b454a7e",
+                "reference": "307884baa99df6efb92f69c2e17c8dbf2b454a7e",
+                "shasum": ""
+            },
+            "require": {
+                "composer/installers": "^2.0"
+            },
+            "type": "wordpress-plugin",
+            "notification-url": "https://packagist.org/downloads/",
+            "support": {
+                "issues": "https://github.com/AleksBar/advanced-custom-fields/issues",
+                "source": "https://github.com/AleksBar/advanced-custom-fields/tree/6.3.3"
+            },
+            "time": "2024-07-03T11:22:48+00:00"
+        },
         {
             "name": "composer/installers",
             "version": "v2.3.0",
@@ -151,31 +176,6 @@
                 }
             ],
             "time": "2024-06-24T20:46:46+00:00"
-        },
-        {
-            "name": "drozzi-pro/advanced-custom-fields",
-            "version": "6.1.6",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/drozzi-pro/advanced-custom-fields.git",
-                "reference": "3b600933dd7df7e750a3b9ed0b92ac30752b4ac6"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/drozzi-pro/advanced-custom-fields/zipball/3b600933dd7df7e750a3b9ed0b92ac30752b4ac6",
-                "reference": "3b600933dd7df7e750a3b9ed0b92ac30752b4ac6",
-                "shasum": ""
-            },
-            "require": {
-                "composer/installers": "^2.0"
-            },
-            "type": "wordpress-plugin",
-            "notification-url": "https://packagist.org/downloads/",
-            "support": {
-                "issues": "https://github.com/drozzi-pro/advanced-custom-fields/issues",
-                "source": "https://github.com/drozzi-pro/advanced-custom-fields/tree/6.1.6"
-            },
-            "time": "2023-05-16T07:51:54+00:00"
         },
         {
             "name": "graham-campbell/result-type",
@@ -1155,15 +1155,15 @@
         },
         {
             "name": "wpackagist-plugin/cyr2lat",
-            "version": "5.3.0",
+            "version": "5.5.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/cyr2lat/",
-                "reference": "tags/5.3.0"
+                "reference": "tags/5.5.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/cyr2lat.5.3.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/cyr2lat.5.5.3.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
