@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "0288d8d5c42a478f362188defaf81dc3",
+    "content-hash": "7424c2c5d3b89cf0aa0a4085f81a7b1a",
     "packages": [
         {
             "name": "aleks-bar/advanced-custom-fields",
@@ -1155,15 +1155,15 @@
         },
         {
             "name": "wpackagist-plugin/cyr2lat",
-            "version": "5.5.3",
+            "version": "6.1.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/cyr2lat/",
-                "reference": "tags/5.5.3"
+                "reference": "tags/6.1.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/cyr2lat.5.5.3.zip"
+                "url": "https://downloads.wordpress.org/plugin/cyr2lat.6.1.0.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
