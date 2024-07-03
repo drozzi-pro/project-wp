@@ -59,7 +59,7 @@
       "roots/wordpress-core-installer": true
     }
   },
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "prefer-stable": true,
   "extra": {
     "installer-paths": {
