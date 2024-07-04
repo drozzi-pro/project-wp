@@ -41,6 +41,7 @@
     "roots/wp-config": "1.0.0",
     "roots/wp-password-bcrypt": "1.1.0",
     "aleks-bar/advanced-custom-fields": "*",
+    "aleks-bar/filebird": "*",
     "wpackagist-plugin/acf-extended":"*",
     "wpackagist-plugin/cyr2lat":"6.1.0"
   },
