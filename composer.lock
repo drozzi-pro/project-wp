@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "07f57b461c940aa6514e4c1a2ce53ac3",
+    "content-hash": "549445e5c28639646563a35973d38a5c",
     "packages": [
         {
             "name": "aleks-bar/advanced-custom-fields",
@@ -30,6 +30,31 @@
                 "source": "https://github.com/AleksBar/advanced-custom-fields/tree/6.3.3"
             },
             "time": "2024-07-03T11:22:48+00:00"
+        },
+        {
+            "name": "aleks-bar/filebird",
+            "version": "6.3.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/aleks-bar/filebird.git",
+                "reference": "82d7859fa8c12fe1bab4004a7a44427031554584"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/aleks-bar/filebird/zipball/82d7859fa8c12fe1bab4004a7a44427031554584",
+                "reference": "82d7859fa8c12fe1bab4004a7a44427031554584",
+                "shasum": ""
+            },
+            "require": {
+                "composer/installers": "^2.0"
+            },
+            "type": "wordpress-plugin",
+            "notification-url": "https://packagist.org/downloads/",
+            "support": {
+                "issues": "https://github.com/aleks-bar/filebird/issues",
+                "source": "https://github.com/aleks-bar/filebird/tree/6.3.3"
+            },
+            "time": "2024-07-04T14:20:17+00:00"
         },
         {
             "name": "composer/installers",
