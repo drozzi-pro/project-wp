@@ -7,7 +7,7 @@ $isDev = false;
 
 if (file_exists('../.env')) {
     $dotenv->load();
-    $isDev = env('WP_ENV') === 'development';
+    $isDev = env('WP_ENV') ? env('WP_ENV') === 'development' : $isDev;
 }
 
 
